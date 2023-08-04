@@ -1,4 +1,7 @@
 # CodeClauseInternship_WeatherAPP
+A Dynamic weather forecasting application using HTML, CSS, and JavaScript, along with  OpenWeather API. 
+With user-friendly inputs, this app allows you to explore real-time weather data for any location worldwide. Enter your desired location or grant access to your GPS for automatic detection.
+
 #Tech_Stack
 1. HTML
 2. CSS
